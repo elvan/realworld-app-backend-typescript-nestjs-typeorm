@@ -3,49 +3,49 @@
 ## Project Setup
 - [x] Initialize NestJS project
 - [x] Setup TypeORM with MySQL
-- [ ] Configure environment variables
-- [ ] Create database connection configuration
-- [ ] Set up JWT authentication
-- [ ] Configure API documentation with Swagger
+- [x] Configure environment variables
+- [x] Create database connection configuration
+- [x] Set up JWT authentication
+- [x] Configure API documentation with Swagger
 
 ## API Endpoints Implementation
 
 ### User and Authentication
-- [ ] Create User entity and DTOs
-- [ ] Implement `/users/login` endpoint
-- [ ] Implement `/users` registration endpoint
-- [ ] Implement `/user` current user endpoint
-- [ ] Implement user update endpoint
+- [x] Create User entity and DTOs
+- [x] Implement `/users/login` endpoint
+- [x] Implement `/users` registration endpoint
+- [x] Implement `/user` current user endpoint
+- [x] Implement user update endpoint
 
 ### Profiles
-- [ ] Create Profile entity and DTOs
-- [ ] Implement `/profiles/{username}` endpoint
-- [ ] Implement follow user endpoint
-- [ ] Implement unfollow user endpoint
+- [x] Create Profile entity and DTOs
+- [x] Implement `/profiles/{username}` endpoint
+- [x] Implement follow user endpoint
+- [x] Implement unfollow user endpoint
 
 ### Articles
-- [ ] Create Article entity and DTOs
-- [ ] Implement `/articles/feed` endpoint
-- [ ] Implement `/articles` list endpoint
-- [ ] Implement article creation endpoint
-- [ ] Implement single article endpoint
-- [ ] Implement article update endpoint
-- [ ] Implement article deletion endpoint
+- [x] Create Article entity and DTOs
+- [x] Implement `/articles/feed` endpoint
+- [x] Implement `/articles` list endpoint
+- [x] Implement article creation endpoint
+- [x] Implement single article endpoint
+- [x] Implement article update endpoint
+- [x] Implement article deletion endpoint
 
 ### Comments
-- [ ] Create Comment entity and DTOs
-- [ ] Implement get article comments endpoint
-- [ ] Implement create comment endpoint
-- [ ] Implement delete comment endpoint
+- [x] Create Comment entity and DTOs
+- [x] Implement get article comments endpoint
+- [x] Implement create comment endpoint
+- [x] Implement delete comment endpoint
 
 ### Favorites
-- [ ] Create ArticleFavorite entity
-- [ ] Implement favorite article endpoint
-- [ ] Implement unfavorite article endpoint
+- [x] Create ArticleFavorite entity
+- [x] Implement favorite article endpoint
+- [x] Implement unfavorite article endpoint
 
 ### Tags
-- [ ] Create Tag entity
-- [ ] Implement get tags endpoint
+- [x] Create Tag entity
+- [x] Implement get tags endpoint
 
 ## Testing
 - [ ] Set up testing environment
@@ -54,11 +54,6 @@
 - [ ] Create e2e tests for API endpoints
 
 ## Documentation
-- [ ] Update README.md with project details
-- [ ] Document API endpoints with Swagger
-- [ ] Create installation and usage instructions
-
-## Deployment
-- [ ] Set up Docker containerization
-- [ ] Configure CI/CD pipeline
-- [ ] Deploy to a hosting service
+- [x] Update README.md with project details
+- [x] Document API endpoints with Swagger
+- [x] Create installation and usage instructions
